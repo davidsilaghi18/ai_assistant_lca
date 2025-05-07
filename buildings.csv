@@ -1,0 +1,5 @@
+building_id,name,year_built,location,energy_consumption_kWh,carbon_footprint_tCO2,certification
+1,Eco Tower,2018,Copenhagen,120000,45.2,LEED Gold
+2,Green Villa,2020,Aarhus,80000,30.5,Passive House
+3,Solar Hub,2021,Odense,50000,22.8,BREEAM
+4,Carbon Brick,2015,Aalborg,150000,65.1,None

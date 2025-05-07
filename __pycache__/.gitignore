@@ -1,0 +1,13 @@
+# Ignore the file with your secret OpenAI API key
+.env
+
+# Ignore Python cache (not needed on GitHub)
+__pycache__/
+*.pyc
+
+# Ignore VSCode local settings (not useful for others)
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
