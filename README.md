@@ -27,30 +27,26 @@ Install them with:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 🚀 Run Locally
 Clone the repo:
 
-bash
-Copiază
-Editează
+```bash
 git clone https://github.com/davidsilaghi18/ai_assistant_lca.git
 cd ai_assistant_lca
+
+```
 Create a .env file:
 
-env
-Copiază
-Editează
+
 OPENAI_API_KEY=your-key-here
 Run the app:
 
-bash
-Copiază
-Editează
+```
 streamlit run app.py
 Open http://localhost:8501 in your browser.
-
+```
 🛡️ Note
 This project does not include an API key. Users must create their own .env file with their OpenAI API key.
 
